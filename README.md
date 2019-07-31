@@ -1,2 +1,5 @@
 # jayachitra
-another repository
+hello world 
+welcome to cahcet
+hi hru
+
